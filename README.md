@@ -4,6 +4,7 @@ Welcome to NexaCoin, the future of decentralized finance!
 Built on Solana, NexaCoin is designed for speed, scalability, and innovation.
 
 Key Details
+
 	•	Total Supply: 2,000,000,000 (2B)
  
 	•	Blockchain: Solana
@@ -21,6 +22,7 @@ Key Details
 
 
 NexaCoin (NEXA) Contract Address:
+
 6hfuCqboa6mqKCCnFuTDcQxzLmJLv31gBunbsY1qGX2w
 
 ⚠️ Important: Only use this contract address to interact with NexaCoin. Always verify before trading or adding liquidity.
