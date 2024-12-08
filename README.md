@@ -10,10 +10,10 @@ Key Details
 	•	Decimals: 6
 	•	Use Cases: DeFi, staking, governance, and more.
 
-Connect With Us
-	•	Website: NexaCoin.online
-	•	Twitter: @NexaDefi
-	•	Telegram: Join the NexaCoin Community
+- **Total Supply**: 2,000,000,000 (2B)
+- **Website**: [NexaCoin.online](https://nexacoin.online)
+- **Twitter**: [@NexaDefi](https://twitter.com/NexaDefi)
+- **Telegram**: [Join the NexaCoin Community](https://t.me/nexadefi)
 
 NexaCoin (NEXA) Contract Address:
 6hfuCqboa6mqKCCnFuTDcQxzLmJLv31gBunbsY1qGX2w
