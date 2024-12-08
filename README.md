@@ -4,11 +4,12 @@ Welcome to NexaCoin, the future of decentralized finance!
 Built on Solana, NexaCoin is designed for speed, scalability, and innovation.
 
 Key Details
-	•	Total Supply: 2,000,000,000 (2B)
-	•	Blockchain: Solana
-	•	Symbol: NEXA
-	•	Decimals: 6
-	•	Use Cases: DeFi, staking, governance, and more.
+
+        •Total Supply: 2,000,000,000 (2B)
+	•Blockchain: Solana
+	•Symbol: NEXA
+	•Decimals: 6
+	•Use Cases: DeFi, staking, governance, and more.
 
 - **Total Supply**: 2,000,000,000 (2B)
 - **Website**: [NexaCoin.online](https://nexacoin.online)
