@@ -5,7 +5,7 @@ Built on Solana, NexaCoin is designed for speed, scalability, and innovation.
 
 Key Details
 
-        •Total Supply: 2,000,000,000 (2B)
+ •Total Supply: 2,000,000,000 (2B)
 	•Blockchain: Solana
 	•Symbol: NEXA
 	•Decimals: 6
